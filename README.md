@@ -1,3 +1,7 @@
+# About this project
+
+This is a basic project to learn the concept of derived state and state uplifting for begginers
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
